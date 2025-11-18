@@ -3,7 +3,7 @@
 > [Linfeng Zhang](http://group.iiis.tsinghua.edu.cn/~maks/linfeng/index.html)\*, [Runpei Dong](https://runpeidong.com/)\*, [Hung-Shuo Tai](https://scholar.google.com/citations?user=_atJMtEAAAAJ&hl=en), and [Kaisheng Ma](http://group.iiis.tsinghua.edu.cn/~maks/leader.html) <br>
 
 [OpenAccess](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PointDistiller_Structured_Knowledge_Distillation_Towards_Efficient_and_Compact_3D_Detection_CVPR_2023_paper.pdf) | 
-This repository contains the implementation of the paper **PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection** (CVPR 2023).
+This repository contains the implementation of the paper **Dynamic Riemannian Geometry Relational Distillation for Lightweight 3D Object Detection** (TAI 2025).
 
 ![D-RGRD](./Image_show/流程图.png)
 
