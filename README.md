@@ -1,7 +1,7 @@
 # D-RGRD
 > [**D-RGRD: Dynamic Riemannian Geometry Relational Distillation for Lightweight 3D Object Detection**](), TAI'2025 <br>
 > [Changhong Bu]()\*, [Weiqing Yan]()\*, [Zhaowei Liu](), [Yongchao Song](), and [Chang Tang]() <br>
-
+ We will publish the code immediately once the paper is accepted
 [OpenAccess]() | 
 This repository contains the implementation of the paper **Dynamic Riemannian Geometry Relational Distillation for Lightweight 3D Object Detection** (TAI 2025).
 
